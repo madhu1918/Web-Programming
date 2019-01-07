@@ -1,0 +1,13 @@
+[{
+	"title": "HTTP Requests & Responses",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following course from udacity covers the http requests and responses. Click on the link below to complete the course.<br><a href=\"https://classroom.udacity.com/courses/ud303/lessons/6ff26dd7-51d6-49b3-9f90-41377bff4564/concepts/ab2f6d8d-fef4-4997-9768-e6e73325b9cb\">Click here</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the HTTP Requests & Responses"
+	}]
+}]

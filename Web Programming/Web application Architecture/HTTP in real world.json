@@ -1,0 +1,13 @@
+[{
+	"title": "HTTP in real world",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following course from udacity covers HTTP in real world. Click on the link below to complete the course.<br><a href=\"https://classroom.udacity.com/courses/ud303/lessons/773150bb-8e88-4457-b077-3b8a02018f33/concepts/3740d908-2b10-49a9-9dcf-14515866f222\">Click here</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the HTTP in real world"
+	}]
+}]

@@ -1,0 +1,174 @@
+{
+    "activities": [],
+    "learningObjectives": [
+        "Describe the web application architecture",
+        "Create interactive and responsive websites<ol><li>Using HTML5, CSS and JavaScript</li><li>Using front-end framework Bootstrap</li></ol>",
+        "Learn AngularJS to build single page applications",
+        "Develop a web application using MEAN.(MongoDB,ExpressJS,AngularJS,NodeJS)"
+    ],
+    "overview": [
+        "A large part of the Internet users engages with interactive data-driven web applications such as Facebook, Amazon, Gmail, etc. In this course, you will learn the skills required by a full stack developer to create such web applications. A series of tasks will prepare you to iteratively code to produce a \"pixel perfect\" interactive, responsive data-driven web application. There are 3 parts to the course. Front-end, Database and putting it all together as a website.",
+        "Front-end of a website is the user experience and the user interfaces that end users engage with. HTML5, CSS, and JavaScript are the enabling technologies for the development of web front-end for applications. Users have several device options to use your website. An important aspect of web front end is the responsive design. Responsive design ensures that your user interfaces adapt to different screen sizes and resolutions. A popular front-end web framework called Bootstrap is introduced in the course. Bootstrap simplifies the development of responsive websites. You will learn all of these front-end technologies by doing multiple tasks in the first week of the course.",
+        "In the second and third week an application will be built with a simple architecture that uses JavaScript for everything. Node.js and Express power the back-end, and MongoDB stores the app's data. At the front-end, AngularJS and Bootstrap power the user interface.",
+        "Last week is to work on a Social computing based project.  By using the previous week’s knowledge develop code and complete iteratively. At the end of the course project demo is given to the client."
+    ],
+    "title": "Web Programming",
+    "units": [{
+            "activities": [
+                "HTTP Requests and Responses",
+                "The Web from Python",
+                "HTTP in real world",
+                "Implementation of web server"
+            ],
+            "learningObjectives": [
+                "Introduction to web application architecture"
+            ],
+            "overview": [
+                "This module begins with an orientation on Web Application Architecture.",
+                "Please go through the following link which consists details of web application architecture:<br><a href=\"https://docs.google.com/document/d/1zt7fGqexVC0u9ooSV-6ZSTZ4POVIqOzRh8WtVHNsoAk/edit\">Lecture Notes</a>"
+            ],
+            "title": "Web application Architecture"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "HTML & CSS"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "BOOTSTRAP JAVASCRIPT"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "JAVASCRIPT"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "JSON"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Week 1 Exam"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Angular JS"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Angular JS"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Angular JS"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "pug"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Poll application"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Week 2 Exam"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Node JS"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Express JS"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Poll Application"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "MongoDB"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Poll application"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Holiday"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Poll application"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Project"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Project"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Project"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Project"
+        },
+        {
+            "activities": [],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Project Demo"
+        }
+
+
+
+    ]
+}

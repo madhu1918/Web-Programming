@@ -1,0 +1,13 @@
+[{
+	"title": "The Web from Python",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following course from udacity covers the web from Python. Click on the link below to complete the course.<br><a href=\"https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/e4a49aed-7377-4cda-9cba-e951cf9842f9\">Click here</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the The Web from Python"
+	}]
+}]

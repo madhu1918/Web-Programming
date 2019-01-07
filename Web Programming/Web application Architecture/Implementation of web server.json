@@ -1,0 +1,12 @@
+[{
+	"title": "Implementation of web server",
+	"activityType": "reading",
+	"quizDescription": [
+		{
+			"text": "1. This code is a very simple implementation of a web server. It handles one GET request /hello. You can download the code and run it. It will run until you hit a Ctrl + c. While the program is running you can open the browser and enter the URL localhost:8080/hello to see the response web page.<br><a href=\"https://github.com/udacity/Full-Stack-Foundations/blob/master/Lesson-2/first-web-server/webserver.py\">Link</a><br><br>What happens when the url is http://localhost:8080/HELLO? How should we change the web server code to enable case insensitive URLs? "
+		},
+		{
+			"text": "2. The code is extended to handle 2 GET requests. One is the /hello and the second is /hola (hello in spanish).<br><a href=\"https://github.com/udacity/Full-Stack-Foundations/blob/master/Lesson-2/hola-server/webserver.py\">Link</a><br><br>To send a “File Not Found Error” self. send_error() function is used. How is this function provided? What exactly does the send_error do?"
+		}
+	]
+}]
