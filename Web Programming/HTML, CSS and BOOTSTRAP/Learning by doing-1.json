@@ -1,0 +1,13 @@
+[{
+	"title": "In this activity you have to summarize the orientation.",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "Summarize the orientation lecture."
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Learning by doing-1"
+	}]
+}]

@@ -1,0 +1,30 @@
+[{
+	"title": "This assignment is to build mockup page for quiz.",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":15,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "By the end of the module you need to create HTML/CSS/Bootstrap version of the quiz Mockup shown below. <b>Submit your git link here</b>"
+			},
+			{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+			}
+		]
+	},
+	{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "Please do a video recording for the assignment and submit your video link here"
+			}
+		]
+	}]
+}]

@@ -1,0 +1,13 @@
+[{
+	"title": "Arrays",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following lesson from udacity covers Arrays. Click on the link below to complete the lesson.<br><a href=\"https://classroom.udacity.com/courses/ud803/lessons/378e7ff7-f7e5-4487-b5c4-fdf9b5c351d9/concepts/23f94405-123c-4132-adc4-bef0f5544663\">Arrays lesson link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Arrays"
+	}]
+}]

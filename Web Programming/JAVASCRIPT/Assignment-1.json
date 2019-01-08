@@ -1,0 +1,24 @@
+[{
+	"title": "Assignment-1",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":15,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "This assignment is to use css and bootstrap for your personal homepage.<br>Using css and bootstrap enhance your personal homepage.<br> <b>Submit your git link here</b>"
+			}
+		]
+	},
+	{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "Please do a video recording for the assignment and submit your video link here"
+			}
+		]
+	}]
+}]

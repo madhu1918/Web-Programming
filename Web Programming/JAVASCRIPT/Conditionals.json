@@ -1,0 +1,13 @@
+[{
+	"title": "Conditionals",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following lesson from udacity covers Conditionals. Click on the link below to complete the lesson.<br><a href=\"https://classroom.udacity.com/courses/ud803/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/b13df814-a7c7-4b65-ac3f-112c56ee7726\">Conditionals lesson link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Conditionals"
+	}]
+}]

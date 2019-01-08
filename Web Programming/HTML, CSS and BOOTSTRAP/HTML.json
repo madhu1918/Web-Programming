@@ -1,0 +1,13 @@
+[{
+	"title": "HTML",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following course from udacity covers the basics of HTML. Click on the link below to complete the course.<br><a href=\"https://classroom.udacity.com/courses/ud001/lessons/6987421963/concepts/74229205890923\">HTML Course Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the HTML"
+	}]
+}]

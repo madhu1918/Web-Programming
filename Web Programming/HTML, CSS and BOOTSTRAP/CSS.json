@@ -1,0 +1,13 @@
+[{
+	"title": "CSS",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following course from udacity covers the basics of CSS. Click on the link below to complete the course.<br><a href=\"https://classroom.udacity.com/courses/ud001/lessons/7473321627/concepts/74914541840923\">CSS Course Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the CSS"
+	}]
+}]

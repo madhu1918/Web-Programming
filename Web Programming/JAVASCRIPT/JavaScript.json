@@ -1,0 +1,13 @@
+[{
+	"title": "JavaScript",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following lesson from udacity covers What is JavaScript. Click on the link below to complete the lesson.<br><a href=\"https://classroom.udacity.com/courses/ud803/lessons/e98aae00-9563-4fca-b91c-a4e79ca79c27/concepts/e4c262e3-ff1c-451b-b455-562d76d22efb\">What is JavaScript lesson link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the JavaScript"
+	}]
+}]

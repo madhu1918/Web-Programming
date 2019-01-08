@@ -1,0 +1,13 @@
+[{
+	"title": "How to use discussion forum",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "Please watch video given below to know how to use discussion forum.<br><a href=\"https://wp.msitprogram.net/playvideo/content/1/discussion_forum.mp4\">Discussion forum video</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the How to use discussion forum"
+	}]
+}]

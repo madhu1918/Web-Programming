@@ -1,0 +1,13 @@
+[{
+	"title": "Functions",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following lesson from udacity covers Functions. Click on the link below to complete the lesson.<br><a href=\"https://classroom.udacity.com/courses/ud803/lessons/a7c5b540-51a6-44dc-b2f2-515c9dd6ca4f/concepts/799e6f19-9105-4cb9-b4cc-ee86d11a14b4\">Functions lesson link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Functions"
+	}]
+}]

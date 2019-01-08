@@ -1,0 +1,13 @@
+[{
+	"title": "Loops",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following lesson from udacity covers Loops. Click on the link below to complete the lesson.<br><a href=\"https://classroom.udacity.com/courses/ud803/lessons/1234cec0-179b-40b6-9435-f10263c7de33/concepts/5f8c5e63-b64d-4e00-b385-f8340e1f9da0\">Loops lesson link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Loops"
+	}]
+}]

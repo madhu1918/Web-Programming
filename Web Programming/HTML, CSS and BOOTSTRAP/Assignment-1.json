@@ -1,0 +1,30 @@
+[{
+	"title": "This assignment is to create a personal homepage for yourself using html.",
+	"activityType": "assignment",
+	"questions": [{
+		"questionType": "fillintheblank",
+		"max_marks":15,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "Create your personal home page. A personal home page looks similar to the reference shown below. The reference is only a baseline. You are allowed to unleash your creativity and add the lot more to your personal home page. <b>Submit your git link here</b>"
+			},
+			{
+			"image": {
+				"imageSRC": "image-1.png",
+				"imageName": ""
+			}
+			}
+		]
+	},
+	{
+		"questionType": "fillintheblank",
+		"max_marks":10,
+		"graded": true,
+		"questionText": [
+			{
+				"text": "Please do a video recording for the assignment and submit your video link here"
+			}
+		]
+	}]
+}]

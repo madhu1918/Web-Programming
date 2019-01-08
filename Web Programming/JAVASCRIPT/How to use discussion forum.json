@@ -1,0 +1,19 @@
+[
+	{
+		"title":"Please watch video given below to know how to use discussion forum.",
+		"activityType":"video",
+		"videoURL":"discussion_forum.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+			{
+				"questionType":"summarize",
+				"questionText":"Summarize the Video on How to use discussion forum"
+			}
+		
+		]
+	}
+]
+
+
