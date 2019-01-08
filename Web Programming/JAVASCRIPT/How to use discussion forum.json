@@ -2,7 +2,7 @@
 	{
 		"title":"Please watch video given below to know how to use discussion forum.",
 		"activityType":"video",
-		"videoURL":"discussion_forum.mp4"
+		"videoURL":"discussion_forum_converted.mp4"
 	},
 	{
 		"activityType":"quiz",
@@ -15,5 +15,3 @@
 		]
 	}
 ]
-
-
