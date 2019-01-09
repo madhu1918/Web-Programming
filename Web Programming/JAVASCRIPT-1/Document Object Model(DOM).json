@@ -1,0 +1,13 @@
+[{
+	"title": "Document Object Model(DOM)",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following lesson from udacity covers Document Object Model(DOM). Click on the link below to complete the lesson.<br><a href=\"https://classroom.udacity.com/courses/ud117/lessons/74c2a096-61db-4302-9d65-6b7fa9b8c329/concepts/354d9102-8b45-4a89-91df-6f5ec9022dbd\">Document Object Model(DOM) lesson link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Document Object Model(DOM)"
+	}]
+}]

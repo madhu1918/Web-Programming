@@ -1,0 +1,13 @@
+[{
+	"title": "Creating Content",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following lesson from udacity covers Creating Content. Click on the link below to complete the lesson.<br><a href=\"https://classroom.udacity.com/courses/ud117/lessons/39d760cf-9593-420d-9a97-57bff31e29c1/concepts/3734dc32-5300-4ad9-96a8-be488f96a180\">Creating Content with JavaScript lesson link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Creating Content"
+	}]
+}]

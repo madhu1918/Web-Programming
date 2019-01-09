@@ -1,0 +1,13 @@
+[{
+	"title": "Performance",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following lesson from udacity covers Performance. Click on the link below to complete the lesson.<br><a href=\"https://classroom.udacity.com/courses/ud117/lessons/364ca3da-1eb9-4213-beb4-7791ac4e1ea4/concepts/6e242deb-7793-4c9a-9898-44144ee2c603\">Performance lesson link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Performance"
+	}]
+}]

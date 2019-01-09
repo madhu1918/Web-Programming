@@ -1,0 +1,13 @@
+[{
+	"title": "Objects",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "The following lesson from udacity covers Objects. Click on the link below to complete the lesson.<br><a href=\"https://classroom.udacity.com/courses/ud803/lessons/634eb53a-2f3f-47a3-9447-598090024758/concepts/698b4dbb-fc8a-40c1-ab90-5902f5714099\">Objects lesson link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Objects"
+	}]
+}]
